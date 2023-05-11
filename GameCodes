@@ -1,1 +1,6 @@
-[RELEASE!] = {"Crystals", 100}
+{
+  "[RELEASE!]": {
+    "item": "Crystals",
+    "amount": 100
+  }
+}
