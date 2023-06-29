@@ -1,0 +1,4 @@
+Common Case = {
+  Price = {"Cash",  100},
+  Items = {100, 300}
+}
