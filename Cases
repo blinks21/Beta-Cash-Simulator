@@ -1,8 +1,2 @@
-{
-Common Case = {
- Price: 100
-}
-Skilled Case = {
- Price: 150
-}
-}
+Common Case = 100
+Skilled Case = 125
