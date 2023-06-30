@@ -1,8 +1,2 @@
-Common Case = {
-  Price = {"Cash",  100},
-  Items = {100, 300}
-}
-Skilled Case = {
-  Price = {"Cash",  150},
-  Items = {150, 500}
-}
+Common Case 
+Skilled Case
