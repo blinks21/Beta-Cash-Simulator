@@ -1,3 +1,5 @@
-Common Case = 100 1 150 300
-Skilled Case = 125 2 150 500
-Testing Case = 1 3 10000 50000
+Common Case = Cash 100 1 150 300
+Skilled Case = Cash 125 2 300 500
+Uncommon Case = Cash 500 3 500 700
+Testing Case = Gems 1 4 10000 50000
+Summer Case = SummerTokens 25000 5 20000 30000
