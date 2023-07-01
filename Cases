@@ -3,3 +3,4 @@ Skilled Case = Cash 125 2 300 500
 Uncommon Case = Cash 500 3 500 700
 Testing Case = Stars 1 4 10000 50000
 Summer Case = SummerTokens 25000 5 20000 30000
+Developer Case = SummerTokens 250000 5 200000 300000
